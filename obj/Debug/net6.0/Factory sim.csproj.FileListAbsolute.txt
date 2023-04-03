@@ -1,0 +1,15 @@
+C:\Users\a1076971\source\repos\Factory sim\bin\Debug\net6.0\Factory sim.exe
+C:\Users\a1076971\source\repos\Factory sim\bin\Debug\net6.0\Factory sim.deps.json
+C:\Users\a1076971\source\repos\Factory sim\bin\Debug\net6.0\Factory sim.runtimeconfig.json
+C:\Users\a1076971\source\repos\Factory sim\bin\Debug\net6.0\Factory sim.dll
+C:\Users\a1076971\source\repos\Factory sim\bin\Debug\net6.0\Factory sim.pdb
+C:\Users\a1076971\source\repos\Factory sim\obj\Debug\net6.0\Factory sim.csproj.AssemblyReference.cache
+C:\Users\a1076971\source\repos\Factory sim\obj\Debug\net6.0\Factory sim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a1076971\source\repos\Factory sim\obj\Debug\net6.0\Factory sim.AssemblyInfoInputs.cache
+C:\Users\a1076971\source\repos\Factory sim\obj\Debug\net6.0\Factory sim.AssemblyInfo.cs
+C:\Users\a1076971\source\repos\Factory sim\obj\Debug\net6.0\Factory sim.csproj.CoreCompileInputs.cache
+C:\Users\a1076971\source\repos\Factory sim\obj\Debug\net6.0\Factory sim.dll
+C:\Users\a1076971\source\repos\Factory sim\obj\Debug\net6.0\refint\Factory sim.dll
+C:\Users\a1076971\source\repos\Factory sim\obj\Debug\net6.0\Factory sim.pdb
+C:\Users\a1076971\source\repos\Factory sim\obj\Debug\net6.0\Factory sim.genruntimeconfig.cache
+C:\Users\a1076971\source\repos\Factory sim\obj\Debug\net6.0\ref\Factory sim.dll
